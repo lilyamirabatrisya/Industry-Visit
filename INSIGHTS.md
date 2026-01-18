@@ -84,9 +84,11 @@ This industrial visit successfully bridged academic learning with industry pract
 The experience reinforced that technical skills, when combined with industry knowledge and a commitment to quality, can contribute meaningfully to healthcare advancements and patient safety.
 
 ## Photos of our Newsletter for this Visit
-[Page 1](images/Biocon1.jpg)
-[Page 2](images/Biocon2.jpg)
-[Page 3](images/Biocon3.jpg)
+![First Page](/Biocon1.jpg)
+
+![Second Page](/Biocon2.jpg)
+
+![Third Page](/Biocon3.jpg)
 
 ## Acknowledgments
 
