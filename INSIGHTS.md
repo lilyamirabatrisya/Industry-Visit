@@ -2,7 +2,6 @@
 
 **Date:** 23rd December 2025  
 **Location:** Biocon Pharmaceutical Facility, Johor Bahru  
-**Organized by:** Faculty of Computing, UTM  
 **Participants:** Computer Science Students  
 
 ## Overview
@@ -89,12 +88,6 @@ The experience reinforced that technical skills, when combined with industry kno
 ![Second Page](/Biocon2.jpg)
 
 ![Third Page](/Biocon3.jpg)
-
-## Acknowledgments
-
-- Faculty of Computing, UTM for organization
-- Biocon Johor Bahru management and staff
-- Guide professionals for their detailed explanations
 
 ---
 *Posted with gratitude,*  
